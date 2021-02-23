@@ -18,17 +18,20 @@
    <h1>Vending Machine</h1>
         <div class="layout">
             <div class="container">
-                <h2 class="money">I have $10</h2>
+              <h2 class="money">I have $<span class="balanceAmount">10</span></h2>
             </div>
             <div class="container">
                 <h3>Prices:</h3>
-                <p>coke: $1.50</p>
-                <p>chips: $1.25</p>
+                <div class="prices"></div>
             </div>
             <div class="container">
                 <div>What do you want to buy?</div>
                 <input><button class="buy">Buy</button>
                 <div class="message"></div>
+            </div>
+            <div class="container">
+                <div>Here's what you've purchased so far:</div>
+                <div class="purchased"></div>
             </div>
         </div>
   </body>

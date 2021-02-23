@@ -14,20 +14,20 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Add, commit, and push your changes.
 
 ### JavaScript
-- [ ] Declare variables to track the user's remaining money and the total number of each snack item that has been puchased.
-- [ ] Write a conditional statement for each user puchase.
-- [ ] The webpage should display the purchased item and the money spent for the purchase that has been made.
-- [ ] The webpage should accurately keep track of and display the money remaining in user's wallet.
-- [ ] The webpage should prohibit users from purchasing items that they can't afford.
+- [x] Declare variables to track the user's remaining money and the total number of each snack item that has been puchased.
+- [x] Write a conditional statement for each user puchase.
+- [x] The webpage should display the purchased item and the money spent for the purchase that has been made.
+- [x] The webpage should accurately keep track of and display the money remaining in user's wallet.
+- [x] The webpage should prohibit users from purchasing items that they can't afford.
 
 
 ### Wrap
-- [ ] Push your changes!
-- [ ] Save and submit your website link using the link on the session agenda.
+- [x] Push your changes!
+- [x] Save and submit your website link using the link on the session agenda.
 
 ### Project Extensions
-- [ ] Display the items you've already purchased
-- [ ] Add additional items to purchase
+- [x] Display the items you've already purchased
+- [x] Add additional items to purchase
 - [ ] A way to add more money to your total
 - [ ] A way to get a refund
 - [ ] Add clickable images for your items
